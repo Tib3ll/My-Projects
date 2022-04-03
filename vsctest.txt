@@ -1,5 +1,9 @@
 "vi skriver in lite text"
 
+<<<<<<< HEAD
 "We continue to test vsc-git with another commit"
 
 "commit amended versionen, commit 3"
+=======
+"We continue to test vsc-git with another commit"
+>>>>>>> 0f383da919ca473f96acdd372a5043ef7596d285

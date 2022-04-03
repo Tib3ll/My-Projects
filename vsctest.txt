@@ -1,1 +1,5 @@
 "vi skriver in lite text"
+
+"We continue to test vsc-git with another commit"
+
+"commit amended versionen, commit 3"

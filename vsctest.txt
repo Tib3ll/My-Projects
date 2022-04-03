@@ -1,3 +1,5 @@
 "vi skriver in lite text"
 
 "We continue to test vsc-git with another commit"
+
+Testing to add text in GitHub and pull it to vsc

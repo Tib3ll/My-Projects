@@ -13,3 +13,6 @@
 
 Testing to add text in GitHub and pull it to vsc
 >>>>>>> 6ef9050a06e91f062cb53d3822e817b879db8468
+
+
+Adding another item to my repository
